@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I'm currently Full Stack Developer Intern
+- 🔭 I'm currently Full Stack Developer
 - 🌱 I’m currently learning and working on Python/Flask and Angular
 - 😄 Pronouns: she/her
 
